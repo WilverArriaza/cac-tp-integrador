@@ -33,10 +33,10 @@
 
 window.onload = function () {
     var backgroundImg=["./src/img/ba2.jpg", "./src/img/ba3.jpg", "./src/img/honolulu.jpg","./src/img/ba1.jpg"]
-    var backHonolulu =["./src/img/honolulu2.png", "./src/img/honolulu.jpg","./src/img/honolulu3.webp","./src/img/honolulu3.webp",]
+    var backHonolulu =["./src/img/honolulu2.jpg", "./src/img/honolulu.jpg","./src/img/honolulu3.webp","./src/img/honolulu3.webp",]
 
     var images = [], x = -1;
-    images[0] = "./src/img/honolulu2.png";
+    images[0] = "./src/img/honolulu2.jpg";
     images[1] = "./src/img/honolulu4.jpg";
     images[2] = "./src/img/honolulu3.jpg";
     images[3] = "./src/img/honolulu.jpg";
